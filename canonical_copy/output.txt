@@ -1,0 +1,13 @@
+Number of graphs                 : 1024
+Size of canonical                : 34
+Canonical Graph adjMatrix dec_rep: G0 G1 G3 G7 G11 G12 G13 G15 G30 G31 G63 G75 G76 G77 G79 G86 G87 G94 G95 G116 G117 G119 G127 G222 G223 G235 G236 G237 G239 G254 G255 G507 G511 G1023 
+
+  0 0 1 0 0 1 
+    0 0 1 0 0 
+      1 1 1 1 
+        1 0 0 
+          0 0 
+            0 
+              
+Matched: G3
+Time: 0 seconds
